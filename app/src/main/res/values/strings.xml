@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Implicit Intend</string>
+    <string name="edittext_uri">http://google.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">India Gate, New Delhi</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\Hello ! How Are You</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Share this text with</string>
+</resources>
